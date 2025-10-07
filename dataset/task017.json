@@ -1,8 +1,7 @@
 {
     "id": "Q017",
     "question": "4 1/5 - 3 4/5",
-    "skills": ["α1","α4"],
-    "alt_skills": ["α5","α1"],
+    "skills": ["α1","α3","α4"],
     "answer": "2/5",
     "difficulty": "multiple"
   }

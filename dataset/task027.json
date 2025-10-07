@@ -1,10 +1,7 @@
 {
     "id": "Q027",
-    "question": "6/7 - 4/7",
-    "skills": ["α1"],
-    "alt_skills": ["α2","α3","α4","α5"],
-    "difficulty": "single"
+    "question": "3 - 7/9",
+    "skills": ["α1","α5","α2"],
+    "answer": "2 2/9",
+    "difficulty": "multiple"
   }
-  
-  
- 
