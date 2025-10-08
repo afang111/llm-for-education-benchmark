@@ -1,24 +1,38 @@
 [
-    {
-        "id": "Q001",
-        "question": "7/9 - 2/9",
-        "skills": ["α1"],
-        "answer": "5/9",
-        "difficulty": "single"
-      },
+  {
+    "id": "Q001",
+    "question": "7/9 - 2/9",
+    "skills": ["α1"],
+    "answer": "5/9",
+    "difficulty": "single"
+  },
     
-    {
-        "id": "Q002",
-        "question": "11/15 - 4/15",
-        "skills": ["α1"],
-        "answer": "7/15",
-        "difficulty": "single"
-      },
-      {
-        "id": "Q040",
-        "question": "4 1/3 - 1 5/3",
-        "skills": ["α1","α2","α5","α6","α7"],
-        "alt_skills": ["α2","α3","α4","α5"],
-        "difficulty": "multi"
-      }
+  {
+    "id": "Q002",
+    "question": "11/15 - 4/15",
+    "skills": ["α1"],
+    "answer": "7/15",
+    "difficulty": "single"
+  },
+  {
+    "id": "Q003",
+    "question": "19/25 - 12/25",
+    "skills": ["α1"],
+    "answer": "7/25",
+    "difficulty": "single"
+  },
+  {
+    "id": "Q004",
+    "question": "8/13 - 5/13",
+    "skills": ["α1"],
+    "answer": "3/13",
+    "difficulty": "single"
+  },
+  {
+    "id": "Q005",
+    "question": "17/21 - 7/21",
+    "skills": ["α1"],
+    "answer": "10/21",
+    "difficulty": "single"
+  }
 ]
