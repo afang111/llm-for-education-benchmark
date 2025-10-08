@@ -1,0 +1,13 @@
+{
+  "id": "Example1",
+  "skills": [
+    "α₃ - Separating the whole number and fraction parts",
+    "α₄ - Borrowing from the whole number",
+    "α₂ - Simplifying the resulting fraction"
+  ],
+  "alt_skills": [
+    "α₅ - Converting whole numbers to fractions"
+  ],
+  "rationale": "The student demonstrated a clear, systematic approach to solving the mixed number subtraction problem, with transparent step-by-step reasoning. The panel's analysis confirmed the student's mastery of the core cognitive skills required, including decomposing the mixed number representation, regrouping through borrowing, and working with fraction equivalence. The potential inclusion of α₅ (converting whole numbers to fractions) was considered, but deemed unnecessary given the overall correctness of the approach confirmed by the teacher. The panel reached a well-justified consensus that the minimal sufficient skill set for this problem consists of α₃, α₄, and α₂.",
+  "confidence": 0.95
+}
